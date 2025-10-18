@@ -1,1 +1,123 @@
+1. What is Power BI, and what are its three main components?
 
+Power BI — это инструмент бизнес-аналитики от Microsoft, который позволяет визуализировать данные, строить интерактивные отчёты и делиться аналитикой.
+Три основных компонента:
+
+Power BI Desktop — создание и редактирование отчётов на компьютере.
+
+Power BI Service — облачная платформа для публикации и совместной работы.
+
+Power BI Mobile — мобильное приложение для просмотра отчётов.
+
+2. Name two business use cases for Power BI dashboards.
+
+Анализ продаж — отслеживание выручки, прибыли и лидеров по продажам.
+
+Финансовая аналитика — сравнение плановых и фактических показателей.
+
+3. How do you download and install Power BI Desktop?
+
+Перейти на https://powerbi.microsoft.com
+.
+
+Выбрать Download Power BI Desktop или установить через Microsoft Store.
+
+Установить и войти с учётной записью Microsoft.
+
+4. What is the difference between Power BI Desktop and Power BI Service?
+Feature	Power BI Desktop	Power BI Service
+Тип	Приложение для Windows	Веб-платформа
+Назначение	Создание и редактирование отчётов	Публикация и совместная работа
+Доступ	Бесплатно	Бесплатно + Pro (для совместного доступа)
+5. What file extension does a Power BI project use?
+
+.pbix
+
+6. Explain the role of Power Query in Power BI.
+
+Power Query — инструмент для подготовки данных:
+
+подключает источники (Excel, SQL, Web и т.д.);
+
+очищает, фильтрует и объединяет данные;
+
+преобразует их перед загрузкой в Power BI.
+
+7. Why would a business prefer Power BI over Excel for reporting?
+
+Интерактивные визуализации и панели
+
+Автоматическое обновление данных
+
+Работа с большими объёмами
+
+Простое совместное использование
+
+Централизованное хранение в облаке
+
+8. Describe one limitation of the free version of Power BI.
+
+Бесплатная версия не позволяет делиться отчётами с другими пользователями в организации. Для этого нужна Power BI Pro.
+
+9. What is a "published report" in Power BI Service?
+
+Это отчёт, созданный в Power BI Desktop и загруженный (опубликованный) в Power BI Service для онлайн-доступа, совместной работы и обновлений.
+
+10. How does Power BI Mobile enhance accessibility?
+
+Позволяет:
+
+Просматривать отчёты на телефонах и планшетах
+
+Получать уведомления и обновления
+
+Работать с интерактивными визуализациями в дороге
+
+11. Compare Power BI with Tableau—pros and cons.
+Aspect	Power BI	Tableau
+Цена	Более доступный	Дороже
+Простота	Интуитивно понятен	Требует обучения
+Интеграция	Отлично с Microsoft (Excel, Azure)	Широкая, но менее удобная с MS
+Визуализация	Отличная	Более гибкая и детализированная
+Поддержка	Большое сообщество	Очень активное сообщество
+12. Explain how Power BI integrates with Azure services.
+
+Azure SQL Database – подключение к данным в облаке
+
+Azure Synapse Analytics – анализ больших данных
+
+Azure Machine Learning – прогнозирование и ИИ
+
+Azure Active Directory (AAD) – безопасная авторизация
+
+13. What are "gateways" in Power BI, and when are they needed?
+
+Gateway (шлюз) соединяет локальные источники данных с Power BI Service.
+Используется, когда:
+
+данные хранятся на локальном сервере;
+
+нужно автоматическое обновление отчётов.
+
+14. How would you convince a company to adopt Power BI? (ROI argument)
+
+Power BI:
+
+Быстро внедряется и экономит время
+
+Уменьшает нагрузку на IT
+
+Повышает точность решений
+
+Стоит дешевле конкурентов
+✅ Результат: повышение эффективности и ROI (окупаемости инвестиций).
+
+15. What security features does Power BI offer for sensitive data?
+
+Row-Level Security (RLS) — ограничение доступа к данным по пользователю
+
+Azure Active Directory (AAD) — безопасная авторизация
+
+Шифрование данных в покое и при передаче
+
+Sensitivity labels — метки конфиденциальности и аудит
